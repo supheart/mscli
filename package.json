@@ -1,5 +1,5 @@
 {
-  "name": "mscli",
+  "name": "msxcli",
   "version": "0.1.0",
   "description": "quickly generate for an available front-end project",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "commander": "^2.17.1",
     "fs-extra": "^7.0.0",
     "inquirer": "^6.1.0",
-    "mscli-express-temp": "^0.1.0",
+    "msxcli-express-temp": "^0.1.0",
     "ora": "^3.0.0",
     "recast": "^0.15.3"
   }
