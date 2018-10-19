@@ -1,4 +1,4 @@
-[![npm package](https://img.shields.io/npm/v/mscli.svg)](https://www.npmjs.com/package/mscli)
+[![npm package](https://img.shields.io/npm/v/msxcli.svg)](https://www.npmjs.com/package/msxcli)
 
 # 前端项目生成工具
 快速生成一个可用的前端项目的脚手架，包括express、koa、react、vue、angular，用于部分架构的补充和完善，方便平台模拟和调试开发。
@@ -34,4 +34,4 @@ mscli express -p app-name
 ```
 
 # License
-mscli is MIT licensed.
+msxcli is MIT licensed.

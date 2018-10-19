@@ -1,6 +1,6 @@
 {
   "name": "msxcli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "quickly generate for an available front-end project",
   "main": "index.js",
   "bin": {
