@@ -25,7 +25,7 @@ program.command('koa <app-name>')
     .option('-u, --upload', 'is a upload project')
     .action(async (name, cmd) => {
         const options = await getOptionsByCmd(cmd);
-        console.log(options, 666);
+        require('../lib/koa')(name, options);
     });
 
 async function getOptionsByCmd(cmd) {
