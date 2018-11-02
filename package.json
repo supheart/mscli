@@ -1,10 +1,10 @@
 {
   "name": "msxcli",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "quickly generate for an available front-end project",
   "main": "index.js",
   "bin": {
-    "mcli": "./bin/msxcli.js"
+    "msxcli": "./bin/msxcli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +18,7 @@
     "fs-extra": "^7.0.0",
     "inquirer": "^6.1.0",
     "msxcli-express-temp": "^0.1.0",
-    "msxcli-koa-temp": "^0.1.0",
+    "msxcli-koa-temp": "^0.1.2",
     "ora": "^3.0.0",
     "recast": "^0.15.3"
   }
